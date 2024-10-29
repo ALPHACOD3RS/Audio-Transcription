@@ -1,12 +1,34 @@
-
-
 [
-    {
+  {
       "base_time": 0,
-      "sentence": "My mama always said life was like a box of chocolates."
-    },
-    {
-      "base_time": 3200,
-      "sentence": "You never know what you're gonna get."
-    }
-  ]
+      "sentence": "The sun dipped below the horizon, casting a warm golden glow across the quiet lake."
+  },
+  {
+      "base_time": 5720,
+      "sentence": "Gentle ripples danced on the water's surface, reflecting the vibrant hues of orange and"
+  },
+  {
+      "base_time": 10360,
+      "sentence": "pink in the sky."
+  },
+  {
+      "base_time": 11840,
+      "sentence": "As the evening breeze whispered through the trees, a sense of peace enveloped the"
+  },
+  {
+      "base_time": 16160,
+      "sentence": "scene."
+  },
+  {
+      "base_time": 17160,
+      "sentence": "Birds chirped their last songs of the day, while distant laughter echoed from"
+  },
+  {
+      "base_time": 21080,
+      "sentence": "a nearby picnic."
+  },
+  {
+      "base_time": 22480,
+      "sentence": "It was a moment of serenity, a reminder of the simple joys that nature can offer."
+  }
+]

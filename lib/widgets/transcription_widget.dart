@@ -20,10 +20,12 @@ class TranscriptionWidget extends StatelessWidget {
         final transcription = transcriptions[index];
         final isActive = _isTranscriptionActive(transcription, index);
         return Container(
-          margin: const EdgeInsets.symmetric(vertical: 8, horizontal: 16),
-          padding:const EdgeInsets.all(16),
+          margin: const EdgeInsets.symmetric(vertical: 4, horizontal: 10),
+          padding: const EdgeInsets.all(12),
           decoration: BoxDecoration(
-            color: isActive ? const Color.fromARGB(255, 241, 240, 240) : Colors.white,
+            color: isActive
+                ? const Color.fromARGB(255, 241, 240, 240)
+                : Colors.white,
             borderRadius: BorderRadius.circular(12),
           ),
           child: Row(
